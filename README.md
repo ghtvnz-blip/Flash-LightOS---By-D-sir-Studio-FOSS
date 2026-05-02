@@ -1,2 +1,2 @@
-# Flash-LightOS---By-D-sir-Studio-FOSS
+# Flash-LightOS - App - Android Free
 Đây là mã nguồn của ứng dụng Flash lightOS 
